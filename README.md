@@ -1,6 +1,7 @@
 # Nazwa projektu: Cherry-IT: COLT 1/2023
 prowadzony przez Annę Czyrko (https://www.linkedin.com/in/ania-czyrko-05933aa1/)
-Zakres pracy:
+
+## Zakres pracy:
 * zapoznanie się z podstawową wiedzą dot. REST,
 * zapoznanie się z narzędziem Postman,
 * stworzenie własnych koleckcji w oparciu o dokumentację Trello,
